@@ -9,7 +9,6 @@ instalar; no requiere dependencias adicionales.
 
 - Paper 26.2 (probado al compilar contra `26.2.build.87-stable`).
 - Java 25.
-- Maven 3.9+ solamente si vas a compilar el proyecto.
 
 Paper 26.2 y Java 25 son requisitos; el plugin no esta destinado a Spigot,
 Bukkit antiguo ni versiones 1.21.x.
